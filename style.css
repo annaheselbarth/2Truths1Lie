@@ -1,0 +1,44 @@
+body {
+    border: 5px solid black;
+    border-radius: 2em;
+    background-color: gray;
+    
+}
+
+
+
+h1 {
+    text-align: center;
+    color: lightgreen;
+}
+
+h3 {
+    color: blue;
+}
+
+p {
+    color: red;
+}
+
+
+#cat {
+    border: 2px solid  black;
+    background-color: lightgray;
+    border-radius: 2em;
+    text-align: center;
+}
+
+#dog {
+    border: 2px solid  black;
+    background-color: lightgray;
+    border-radius: 2em;
+    text-align: center;
+}
+
+#sons {
+    border: 2px solid  black;
+    background-color: lightgray;
+    border-radius: 2em;
+    text-align: center;
+}
+
